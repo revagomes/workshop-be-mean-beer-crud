@@ -7,7 +7,7 @@
     "seed": "mongoimport --db workshop-floripa --collection beers --type json --file ./seeds/beers.json --jsonArray"
   },
   "dependencies": {
-    "express": "~4.0.0",
+    "express": "~4.17.1",
     "static-favicon": "~1.0.0",
     "morgan": "~1.0.0",
     "cookie-parser": "~1.0.1",
